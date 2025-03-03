@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\Unity\\practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|E:\\Projects\\Unity\\practice\\assets\\scripts\\endmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|E:\\Projects\\Unity\\practice\\assets\\scripts\\playerlife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerlife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|E:\\Projects\\Unity\\practice\\assets\\scripts\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|E:\\Projects\\Unity\\practice\\assets\\scripts\\allcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\allcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|E:\\Projects\\Unity\\practice\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|E:\\Projects\\Unity\\practice\\assets\\scripts\\stickyplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stickyplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|E:\\Projects\\Unity\\practice\\assets\\scripts\\itemcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|e:\\projects\\unity\\practice\\assets\\scripts\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|E:\\Projects\\Unity\\practice\\assets\\scripts\\waypointfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\waypointfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|E:\\Projects\\Unity\\practice\\assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|E:\\Projects\\Unity\\practice\\assets\\scripts\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2273B626-0EFC-0D40-0E14-9FC298FA5C94}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EndMenu.cs",
+              "DocumentMoniker": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\EndMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndMenu.cs",
+              "ToolTip": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\EndMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:56:43.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartMenu.cs",
+              "DocumentMoniker": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\StartMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartMenu.cs",
+              "ToolTip": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\StartMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:54:15.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "allControl.cs",
+              "DocumentMoniker": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\allControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\allControl.cs",
+              "ToolTip": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\allControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\allControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:29:27.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:26:04.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StickyPlatform.cs",
+              "DocumentMoniker": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\StickyPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StickyPlatform.cs",
+              "ToolTip": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\StickyPlatform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StickyPlatform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:29:35.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerLife.cs",
+              "DocumentMoniker": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\PlayerLife.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerLife.cs",
+              "ToolTip": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\PlayerLife.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerLife.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:37:24.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemCollector.cs",
+              "DocumentMoniker": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\ItemCollector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemCollector.cs",
+              "ToolTip": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\ItemCollector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemCollector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T00:24:24.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Finish.cs",
+              "DocumentMoniker": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\Finish.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finish.cs",
+              "ToolTip": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\Finish.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:07:04.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WaypointFollower.cs",
+              "DocumentMoniker": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\WaypointFollower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaypointFollower.cs",
+              "ToolTip": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\WaypointFollower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaypointFollower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:09:21.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rotate.cs",
+              "DocumentMoniker": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\Rotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rotate.cs",
+              "ToolTip": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\Rotate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T05:43:59.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\Camera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera.cs",
+              "ToolTip": "E:\\Projects\\Unity\\practice\\Assets\\Scripts\\Camera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:26:15.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
