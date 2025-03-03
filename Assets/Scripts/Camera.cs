@@ -9,6 +9,7 @@ public class Camera : MonoBehaviour
     //²âÊÔ×¢ÊÍ2
     //²âÊÔ×¢ÊÍ3
     //²âÊÔ4
+    //test5
     void Start()
     {
         
