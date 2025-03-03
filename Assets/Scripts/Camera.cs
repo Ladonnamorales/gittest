@@ -8,6 +8,7 @@ public class Camera : MonoBehaviour
     //╡Бйтв╒йм
     //╡Бйтв╒йм2
     //╡Бйтв╒йм3
+    //╡Бйт4
     void Start()
     {
         
